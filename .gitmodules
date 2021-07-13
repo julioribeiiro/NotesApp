@@ -1,0 +1,6 @@
+[submodule "react-backend"]
+	path = react-backend
+	url = https://github.com/julioribeiiro/reactnotes-backend
+[submodule "react-frontend"]
+	path = react-frontend
+	url = https://github.com/julioribeiiro/reactnotes-frontend
