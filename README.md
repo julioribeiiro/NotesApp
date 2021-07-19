@@ -3,8 +3,10 @@
 ### App created using Springboot for backend and ReactJS for the frontend.
 #### Functionalities working:
 * Front-end:
+  * React Hooks
   * Router-dom
   * List all notes
+  * View note
   * Create new note
   * Edit note
   * Delete note
