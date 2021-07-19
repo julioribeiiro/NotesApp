@@ -12,7 +12,7 @@
   * Delete note
 * Back-end:
   * Connecting to postgreSQL
-  * Using separeted layers (Controller, Services, Repository, Services)
+  * Using separeted layers (Controller, Services, Repository, Entities)
   * GET: Return all notes
   * POST: Create new note
   * PUT: Update note
